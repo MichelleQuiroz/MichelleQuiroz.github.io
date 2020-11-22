@@ -2,4 +2,4 @@
 
 ## Study Application
 
-![](images/ChampionsQuestScreenshot.png)
+![](Images/ChampionsQuestScreenshot.png)
